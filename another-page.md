@@ -33,7 +33,7 @@
 
 * 常用的软件模型
 
-  ![image-20190227170513241](/Users/apple/Documents/GitHub/swsad-hw/assets/images/SDM's  models.png)
+  ![image-20190227170513241](./assets/images/SDM's  models.png)
 
 ##### 1.4 SWEBoK 的 15 个知识域（[An Overview of the SWEBOK Guide](https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) 请中文翻译其名称与简短说明）
 
