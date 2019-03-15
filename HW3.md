@@ -97,7 +97,7 @@
 
     并且能够按照提供不同显示方法。
 
-    
+    ![HW3-1](https://github.com/hackerpeter1/swsad-hw/blob/gh-pages/assets/images/HW3-9.png?raw=true)
 
 [back](./)
 
