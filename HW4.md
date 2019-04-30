@@ -40,15 +40,15 @@ happy path 是没有异常或错误情况下的默认方案。简单的说就是
 
 **参与者**
 
-![](/Users/apple/Documents/GitHub/swsad-hw/assets/images/actor.png)
+![](./assets/images/actor.png)
 
 **系统边界**
 
-![](/Users/apple/Documents/GitHub/swsad-hw/assets/images/system.png)
+![](./assets/images/system.png)
 
 **箭头**
 
-![](/Users/apple/Documents/GitHub/swsad-hw/assets/images/vector.png)
+![](./assets/images/vector.png)
 
 **用例**
 
