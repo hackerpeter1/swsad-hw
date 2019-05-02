@@ -8,5 +8,6 @@
   * [HW3](HW3.html)
   * [HW4](HW4.html)
   * [HW5](HW5.html)
+  * [HW6](HW6.html)
 
 
